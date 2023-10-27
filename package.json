@@ -1,0 +1,14 @@
+{
+    "name": "discord-invite-bruteforcer",
+    "version": "1.0.0",
+    "description": "bruteforces randomly generated discord server links and checks if they're valid or not.",
+    "main": "bruteforcer.js",
+    "scripts": {
+      "start": "node bruteforcer.js"
+    },
+    "dependencies": {
+      "axios": "^0.26.0",
+      "prompt": "^1.2.0"
+    }
+  }
+  

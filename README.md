@@ -22,17 +22,17 @@ git clone https://github.com/dootss/discord-invite-bruteforcer
 
 ### Windows
 
-double-click on the `install.bat` file in the project folder to install the required dependencies
+double-click on the `installer.bat` file in the project folder to install the required dependencies
 
 ### macOS/Linux
 
 open a terminal in the project folder and run:
 
 ```
-chmod +x install.sh && ./install.sh
+chmod +x installer.sh && ./installer.sh
 ```
 
-this will make the `install.sh` script executable and run it to install the required dependencies
+this will make the `installer.sh` script executable and run it to install the required dependencies
 
 ## Running the Script
 

@@ -21,6 +21,7 @@ the odds of actually finding a working invite link are pretty damn low. if you g
 
 ```
 git clone https://github.com/dootss/discord-invite-bruteforcer
+cd discord-invite-bruteforcer
 installer.bat
 run.bat
 ```
@@ -29,6 +30,7 @@ run.bat
 
 ```
 git clone https://github.com/dootss/discord-invite-bruteforcer
+cd discord-invite-bruteforcer
 chmod +x installer.sh && ./installer.sh
 chmod +x run.sh && ./run.sh
 ```
